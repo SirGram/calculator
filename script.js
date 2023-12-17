@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", function () {
       key === "+" ||
       key === "-" ||
       key === "/" ||
-      key === "*" ||
+      key === "x" ||
       key === "^" ||
       key === "%"
     ) {
